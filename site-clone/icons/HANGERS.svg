@@ -1,0 +1,16 @@
+<svg width="17px" height="28px" viewBox="0 0 17 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HANGERS" transform="translate(1.000000, 1.000000)" stroke="#181818">
+            <rect id="Rectangle" x="2" y="23" width="12" height="3"></rect>
+            <path d="M7.49973456,0 L7.49973456,0 C6.67145404,0 6,0.674761141 6,1.50712108 L6,23 L9,23 L9,1.50712108 C9,1.10731529 8.84191985,0.723892298 8.56055022,0.441236948 C8.27918064,0.158581595 7.89758085,0 7.49973456,0 L7.49973456,0 Z" id="Path"></path>
+            <circle id="Oval" cx="14" cy="9" r="1"></circle>
+            <polyline id="Path" points="9 13 12.1442152 13 14 11.1769575 14 10"></polyline>
+            <circle id="Oval" cx="1" cy="11" r="1"></circle>
+            <polyline id="Path" points="6 15 3.00787832 15 1 13.1774541 1 12"></polyline>
+            <circle id="Oval" cx="3" cy="3" r="1"></circle>
+            <polyline id="Path" points="6 7 4.83255659 7 3 5.17745406 3 4"></polyline>
+            <circle id="Oval" cx="13" cy="2" r="1"></circle>
+            <polyline id="Path" points="9 5 10.3703375 5 12 3.17764901 12 2"></polyline>
+        </g>
+    </g>
+</svg>

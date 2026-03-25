@@ -1,0 +1,15 @@
+
+<svg width="25px" height="23px" viewBox="0 0 25 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="air_condition.a63d4b3d" transform="translate(1.000000, 1.000000)" stroke="#181818">
+            <path d="M22.342,11.338 L0.658,11.338 C0.367,11.338 0,8.788 0,5.169 C0,1.551 0.367,-1.77635684e-15 0.658,-1.77635684e-15 L22.342,-1.77635684e-15 C22.633,-1.77635684e-15 23,1.511 23,5.169 C23,8.828 22.633,11.338 22.342,11.338 L22.342,11.338 Z" id="Stroke-1"></path>
+            <polyline id="Stroke-3" points="21.5535 11.338 21.2615 8.455 1.7385 8.455 1.4455 11.338"></polyline>
+            <line x1="22.996" y1="4.1183" x2="0.003" y2="4.1183" id="Stroke-5"></line>
+            <line x1="0.0255" y1="6.2111" x2="22.9745" y2="6.2111" id="Stroke-7"></line>
+            <line x1="12.562" y1="13.298" x2="12.562" y2="21.986" id="Stroke-9"></line>
+            <line x1="15.187" y1="13.298" x2="15.187" y2="17.642" id="Stroke-12"></line>
+            <line x1="9.3745" y1="13.298" x2="9.3745" y2="19.062" id="Stroke-14"></line>
+            <line x1="6.937" y1="13.298" x2="6.937" y2="14.985" id="Stroke-16"></line>
+        </g>
+    </g>
+</svg>

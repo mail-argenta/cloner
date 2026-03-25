@@ -1,0 +1,46 @@
+<svg width="23px" height="27px" viewBox="0 0 23 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-w35yw9lbkj-1" points="0 26.561 22.9 26.561 22.9 -6.11056344e-16 0 -6.11056344e-16"></polygon>
+        <polygon id="path-w35yw9lbkj-3" points="0 26.561 22.9 26.561 22.9 -6.11056344e-16 0 -6.11056344e-16"></polygon>
+        <polygon id="path-w35yw9lbkj-5" points="0 26.561 22.9 26.561 22.9 -6.11056344e-16 0 -6.11056344e-16"></polygon>
+        <polygon id="path-w35yw9lbkj-7" points="0 26.561 22.9 26.561 22.9 -6.11056344e-16 0 -6.11056344e-16"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bbq.a751f3b8">
+            <path d="M12.7998,4.2612 C13.0998,5.0612 12.5998,6.0612 11.4998,6.0612 C10.4998,6.0612 9.8998,5.0612 10.2998,4.2612 C10.5998,3.4612 11.4998,1.2612 11.4998,1.2612 C11.4998,1.2612 12.4998,3.4612 12.7998,4.2612 Z" id="Stroke-1" stroke="#181818"></path>
+            <path d="M16.5996,5.561 C16.4006,5.061 15.9006,3.861 15.9006,3.861 C15.9006,3.861 15.2006,5.061 14.9996,5.561 C14.7996,6.061 15.0996,6.661 15.7996,6.661 C16.4006,6.561 16.7996,6.061 16.5996,5.561" id="Stroke-3" stroke="#181818"></path>
+            <path d="M8,5.561 C7.8,5.061 7.3,3.761 7.3,3.761 C7.3,3.761 6.7,5.061 6.5,5.561 C6.3,6.061 6.6,6.661 7.2,6.661 C7.9,6.661 8.2,6.061 8,5.561" id="Stroke-5" stroke="#181818"></path>
+            <line x1="2.8999" y1="22.2612" x2="6.9999" y2="15.4612" id="Stroke-7" stroke="#181818"></line>
+            <line x1="20.0996" y1="24.2612" x2="2.8996" y2="24.2612" id="Stroke-9" stroke="#181818"></line>
+            <line x1="20.0996" y1="22.2612" x2="16.0996" y2="15.5612" id="Stroke-11" stroke="#181818"></line>
+            <g id="Stroke-13-Clipped" transform="translate(0.000000, 0.000000)">
+                <mask id="mask-w35yw9lbkj-2" fill="white">
+                    <use xlink:href="#path-w35yw9lbkj-1"></use>
+                </mask>
+                <g id="path-1"></g>
+                <polygon id="Stroke-13" stroke="#181818" mask="url(#mask-w35yw9lbkj-2)" points="0.5 26.061 2.7 26.061 2.7 21.561 0.5 21.561"></polygon>
+            </g>
+            <g id="Stroke-15-Clipped" transform="translate(0.000000, 0.000000)">
+                <mask id="mask-w35yw9lbkj-4" fill="white">
+                    <use xlink:href="#path-w35yw9lbkj-3"></use>
+                </mask>
+                <g id="path-1"></g>
+                <polygon id="Stroke-15" stroke="#181818" mask="url(#mask-w35yw9lbkj-4)" points="20.2 26.061 22.4 26.061 22.4 21.561 20.2 21.561"></polygon>
+            </g>
+            <g id="Stroke-16-Clipped" transform="translate(0.000000, 0.000000)">
+                <mask id="mask-w35yw9lbkj-6" fill="white">
+                    <use xlink:href="#path-w35yw9lbkj-5"></use>
+                </mask>
+                <g id="path-1"></g>
+                <path d="M2.1001,8.8608 C2.7001,13.4608 6.8001,16.4618 11.7001,16.4618 C16.6001,16.4618 20.6001,13.4608 21.3001,8.8608 L2.1001,8.8608 Z" id="Stroke-16" stroke="#181818" mask="url(#mask-w35yw9lbkj-6)"></path>
+            </g>
+            <g id="Stroke-17-Clipped" transform="translate(0.000000, 0.000000)">
+                <mask id="mask-w35yw9lbkj-8" fill="white">
+                    <use xlink:href="#path-w35yw9lbkj-7"></use>
+                </mask>
+                <g id="path-1"></g>
+                <polyline id="Stroke-17" stroke="#181818" mask="url(#mask-w35yw9lbkj-8)" points="1.7002 9.061 1.7002 6.961 21.3002 6.961 21.3002 9.061"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
