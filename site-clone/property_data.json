@@ -1,0 +1,796 @@
+{
+  "_id": "6113e18bb93f1d002d529c18",
+  "accountId": "5aff29ca5e0f84006a37cb5d",
+  "title": "Malibu Sand  Carbon Beach by Stay Awhile Villas",
+  "nickname": "Malibu Sand",
+  "type": "SINGLE",
+  "roomType": "Entire home/apt",
+  "propertyType": "Villa",
+  "accommodates": 10,
+  "amenities": [
+    "Accessible-height bed",
+    "Accessible-height toilet",
+    "Air conditioning",
+    "BBQ grill",
+    "Baby bath",
+    "Babysitter recommendations",
+    "Baking sheet",
+    "Barbeque utensils",
+    "Bathtub",
+    "Beach",
+    "Beach Front",
+    "Beach View",
+    "Beach access",
+    "Beach essentials",
+    "Bed linens",
+    "Blender",
+    "Board games",
+    "Body soap",
+    "Carbon monoxide detector",
+    "Children’s books and toys",
+    "Children’s dinnerware",
+    "Cleaning Disinfection",
+    "Cleaning products",
+    "Clothing storage",
+    "Coffee",
+    "Coffee maker",
+    "Conditioner",
+    "Cookware",
+    "Crib",
+    "Cycling",
+    "Desk",
+    "Dining table",
+    "Dishes and silverware",
+    "Dishwasher",
+    "Dryer",
+    "Dryer in common space",
+    "Emergency exit",
+    "Enhanced cleaning practices",
+    "Essentials",
+    "Extra pillows and blankets",
+    "Family/kid friendly",
+    "Fire Pit",
+    "Fire extinguisher",
+    "First aid kit",
+    "Fishing",
+    "Free parking on premises",
+    "Free parking on street",
+    "Freezer",
+    "Garage",
+    "Golf - Optional",
+    "Grab-rails in toilet",
+    "Hair dryer",
+    "Hangers",
+    "Heating",
+    "High chair",
+    "High touch surfaces disinfected",
+    "Horseback Riding",
+    "Hot tub",
+    "Hot water",
+    "Ice maker",
+    "Internet",
+    "Iron",
+    "Kettle",
+    "Kitchen",
+    "Laptop friendly workspace",
+    "Long term stays allowed",
+    "Luggage dropoff allowed",
+    "Microwave",
+    "Mountain Climbing",
+    "Mountain view",
+    "Museums",
+    "Near Ocean",
+    "Ocean Front",
+    "Outdoor seating (furniture)",
+    "Oven",
+    "Pack ’n Play/travel crib",
+    "Pack ’n play/travel crib",
+    "Path to entrance lit at night",
+    "Patio or balcony",
+    "Pool table",
+    "Refrigerator",
+    "Rock Climbing",
+    "Room-darkening shades",
+    "Safe",
+    "Sea view",
+    "Shampoo",
+    "Shopping",
+    "Shower gel",
+    "Smoke detector",
+    "Sound system",
+    "Step-free access",
+    "Stereo system",
+    "Stove",
+    "TV",
+    "Theme Parks",
+    "Toaster",
+    "Towels provided",
+    "Washer",
+    "Washer in common space",
+    "Water Parks",
+    "Water Sports",
+    "Water View",
+    "Waterfront",
+    "Wheelchair accessible",
+    "Wide clearance to bed",
+    "Wide clearance to shower and toilet",
+    "Wide doorway",
+    "Wide hallway clearance",
+    "Wine glasses",
+    "Wireless Internet",
+    "Zoo",
+    "Flat smooth pathway to front door",
+    "Suitable for children (2-12 years)",
+    "Suitable for infants (under 2 years)"
+  ],
+  "bathrooms": 4.5,
+  "bedrooms": 4,
+  "beds": 5,
+  "bedType": null,
+  "timezone": "America/Los_Angeles",
+  "defaultCheckInTime": "16:00",
+  "defaultCheckOutTime": "10:00",
+  "address": {
+    "city": "Malibu",
+    "country": "United States",
+    "full": "22640 E Pacific Coast Hwy, Malibu, CA 90265, USA",
+    "lat": 34.0393497,
+    "lng": -118.6683254,
+    "state": "California",
+    "street": "East Pacific Coast Highway 22640"
+  },
+  "picture": {
+    "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+    "caption": "A coastal oasis where relaxation meets breathtaking beauty."
+  },
+  "pictures": [
+    {
+      "original": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+      "caption": "A coastal oasis where relaxation meets breathtaking beauty."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/rwipf8w1ilrqgp0umyjz.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1742801234/production/5aff29ca5e0f84006a37cb5d/rwipf8w1ilrqgp0umyjz.jpg",
+      "caption": "Malibu’s best views, reserved just for you."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428838/production/5aff29ca5e0f84006a37cb5d/yzrjzs1ap5vkbeaqnr77.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428838/production/5aff29ca5e0f84006a37cb5d/yzrjzs1ap5vkbeaqnr77.jpg",
+      "caption": "Experience Malibu like a local, just minutes from Nobu and Soho House."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428466/production/5aff29ca5e0f84006a37cb5d/io62rbq6ysjwftfud0c8.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428466/production/5aff29ca5e0f84006a37cb5d/io62rbq6ysjwftfud0c8.jpg",
+      "caption": "Challenge friends to a game by the beach – the pool table awaits your next victory."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428435/production/5aff29ca5e0f84006a37cb5d/oabgmnqcsrcak3kcaztr.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428435/production/5aff29ca5e0f84006a37cb5d/oabgmnqcsrcak3kcaztr.jpg",
+      "caption": "Gather around for meals that turn into memories by the sea."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428396/production/5aff29ca5e0f84006a37cb5d/eegf0qqc6u4utrhnfiu2.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428396/production/5aff29ca5e0f84006a37cb5d/eegf0qqc6u4utrhnfiu2.jpg",
+      "caption": "Where every meal feels like a special occasion."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428783/production/5aff29ca5e0f84006a37cb5d/icsopcrhba5jqb2bm9nu.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428783/production/5aff29ca5e0f84006a37cb5d/icsopcrhba5jqb2bm9nu.jpg",
+      "caption": "Step inside to the heart of Malibu, where relaxation meets refined design."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428786/production/5aff29ca5e0f84006a37cb5d/nqmvlbfld6jqykabs6cg.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428786/production/5aff29ca5e0f84006a37cb5d/nqmvlbfld6jqykabs6cg.jpg",
+      "caption": "Fully equipped with high-end appliances that bring every dish to life."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428442/production/5aff29ca5e0f84006a37cb5d/qmkjt1cgqkrrd2zdjzth.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428442/production/5aff29ca5e0f84006a37cb5d/qmkjt1cgqkrrd2zdjzth.jpg",
+      "caption": "Indulge in quiet moments by the window as the ocean breeze drifts in."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428702/production/5aff29ca5e0f84006a37cb5d/cxujihl7wa82ojqmcsll.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428702/production/5aff29ca5e0f84006a37cb5d/cxujihl7wa82ojqmcsll.jpg",
+      "caption": "Soak in Malibu’s charm from the best seat in the house."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428683/production/5aff29ca5e0f84006a37cb5d/cdzo0cvcnudlucippkwg.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428683/production/5aff29ca5e0f84006a37cb5d/cdzo0cvcnudlucippkwg.jpg",
+      "caption": "A beachfront escape curated for serene coastal living."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/z1gax4u8nkpwp5unnzby.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1742801234/production/5aff29ca5e0f84006a37cb5d/z1gax4u8nkpwp5unnzby.jpg",
+      "caption": "Your private slice of Malibu’s coastline."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/qyhkio71njcakrkpyuje.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/qyhkio71njcakrkpyuje?_a=BAMCcSGi0",
+      "caption": "Private jacuzzi tub off of your master bedroom oceanside suite."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/sbcxvhprtlykuzyzdvg3.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/sbcxvhprtlykuzyzdvg3?_a=BAMCcSGi0",
+      "caption": "Conveniently designed, rain shower, separate soaking tub and LED lit vanity mirrors."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428747/production/5aff29ca5e0f84006a37cb5d/gzcx8igdki1zq7vxlko3.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428747/production/5aff29ca5e0f84006a37cb5d/gzcx8igdki1zq7vxlko3.jpg",
+      "caption": "Unwind with a game of pool, where every shot comes with an ocean view."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/u5cdzbo9998q9dvlgy5q.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/u5cdzbo9998q9dvlgy5q?_a=BAMCcSGi0",
+      "caption": "Create your favorite beverages in the full bar area."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/djedfljd0mwofesz4wq5.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/djedfljd0mwofesz4wq5?_a=BAMCcSGi0",
+      "caption": "Full, gas burning kitchen with all of your everyday cooking/baking needs supplied for you."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428753/production/5aff29ca5e0f84006a37cb5d/ujflgcxs5mf82gjk0z83.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428753/production/5aff29ca5e0f84006a37cb5d/ujflgcxs5mf82gjk0z83.jpg",
+      "caption": "Modern elegance and coastal charm fill every corner."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428407/production/5aff29ca5e0f84006a37cb5d/cw9kcuw5fja80e6al2ad.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428407/production/5aff29ca5e0f84006a37cb5d/cw9kcuw5fja80e6al2ad.jpg",
+      "caption": "Dine on fresh, local flavors with endless ocean views."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428739/production/5aff29ca5e0f84006a37cb5d/juik7nrshtazefizijjs.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428739/production/5aff29ca5e0f84006a37cb5d/juik7nrshtazefizijjs.jpg",
+      "caption": "Lounge on the deck with the waves as your soundtrack."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428809/production/5aff29ca5e0f84006a37cb5d/pnvbayhy6ckidypidg0w.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428809/production/5aff29ca5e0f84006a37cb5d/pnvbayhy6ckidypidg0w.jpg",
+      "caption": "Sunsets, sea breeze, and seaside luxury at Malibu Sand."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428850/production/5aff29ca5e0f84006a37cb5d/su2sxqzz2nhcobgm2otx.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428850/production/5aff29ca5e0f84006a37cb5d/su2sxqzz2nhcobgm2otx.jpg",
+      "caption": "Linger by the beach, dine alfresco, repeat."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428857/production/5aff29ca5e0f84006a37cb5d/iunhp1r1tzxe0ha81eqn.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428857/production/5aff29ca5e0f84006a37cb5d/iunhp1r1tzxe0ha81eqn.jpg",
+      "caption": "Unwind in your ocean-view hot tub under starlit Malibu skies."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428850/production/5aff29ca5e0f84006a37cb5d/zyuppgmarisk8taxue99.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428850/production/5aff29ca5e0f84006a37cb5d/zyuppgmarisk8taxue99.jpg",
+      "caption": "Where luxury meets ocean views – welcome home."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428831/production/5aff29ca5e0f84006a37cb5d/z7izuk4p9dlpifgp8ciz.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428831/production/5aff29ca5e0f84006a37cb5d/z7izuk4p9dlpifgp8ciz.jpg",
+      "caption": "A living space crafted for laughter, memories, and pure California vibes."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/lnifjlbe0adumx7l1cgz.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/lnifjlbe0adumx7l1cgz?_a=BAMCcSGi0",
+      "caption": "The perfect bedroom with all of your essentials."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/cspqelo6vyxsx6sqttae.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/cspqelo6vyxsx6sqttae?_a=BAMCcSGi0",
+      "caption": "Beds fully outfitted in luxurious, hotel grade linens."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/yurmjhzepk21vh5m7jxq.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/yurmjhzepk21vh5m7jxq?_a=BAMCcSGi0",
+      "caption": "LED lit vanity mirrors, Toto Neorest toilet and graft rain shower."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/icgyqvqeobl0n7davda6.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/icgyqvqeobl0n7davda6?_a=BAMCcSGi0",
+      "caption": "A clean, comfortable bedroom to relax."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/egzccds0b5ua2wnjxvoy.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/egzccds0b5ua2wnjxvoy?_a=BAMCcSGi0",
+      "caption": "Bedroom space providing a sense of relaxation"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/pgnz0fbkpmjlebwrwcqz.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/pgnz0fbkpmjlebwrwcqz?_a=BAMCcSGi0",
+      "caption": "LED lit vanity mirrors."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/ymuqrfft6d5i7zkzjiob.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/ymuqrfft6d5i7zkzjiob?_a=BAMCcSGi0",
+      "caption": "Luxurious bedroom with en suite bathroom."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/upfzbwjm97ytawtwoxam.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/upfzbwjm97ytawtwoxam?_a=BAMCcSGi0",
+      "caption": "Doors that open up to the refreshing, ocean air and relaxing ambiance."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/ncuzu53ayy2ru9jnh3dq.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/ncuzu53ayy2ru9jnh3dq?_a=BAMCcSGi0",
+      "caption": "Everyday essentials including Beekman toiletries, cotton balls and q tips."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/fkbcqdnjkzmr3i8quvfi.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/fkbcqdnjkzmr3i8quvfi?_a=BAMCcSGi0",
+      "caption": "Smart drop down or prop up TV in the master"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/adlslxlnbrc71jqbo1qa.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/adlslxlnbrc71jqbo1qa?_a=BAMCcSGi0",
+      "caption": "Master Bedroom with a View"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428739/production/5aff29ca5e0f84006a37cb5d/yv3aiw2x3tylxf32wqmh.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428739/production/5aff29ca5e0f84006a37cb5d/yv3aiw2x3tylxf32wqmh.jpg",
+      "caption": "Step into a space where comfort and elegance blend effortlessly."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428744/production/5aff29ca5e0f84006a37cb5d/svldcqsrca20twuimvwc.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428744/production/5aff29ca5e0f84006a37cb5d/svldcqsrca20twuimvwc.jpg",
+      "caption": "A lounge made for unwinding with style and ease."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/yns54mfriqatu7kbxwdv.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/yns54mfriqatu7kbxwdv?_a=BAMCcSGi0",
+      "caption": "Elegant touches throughout each space."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/etv3llrjukt63mljubei.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/etv3llrjukt63mljubei?_a=BAMCcSGi0",
+      "caption": "Who’s up for a game of pool?"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428784/production/5aff29ca5e0f84006a37cb5d/frc4t8ikywwjl0fwkklp.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428784/production/5aff29ca5e0f84006a37cb5d/frc4t8ikywwjl0fwkklp.jpg",
+      "caption": "Step into a chef’s paradise with ocean views from every angle."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428817/production/5aff29ca5e0f84006a37cb5d/ed5mkfnwcqokidv5vlfg.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428817/production/5aff29ca5e0f84006a37cb5d/ed5mkfnwcqokidv5vlfg.jpg",
+      "caption": "Sink into plush sofas, unwind, and let the ocean views inspire your stay."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428408/production/5aff29ca5e0f84006a37cb5d/yiprpyd14t2pgenpsyqg.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428408/production/5aff29ca5e0f84006a37cb5d/yiprpyd14t2pgenpsyqg.jpg",
+      "caption": "Every meal is a special occasion when the ocean is your view."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428401/production/5aff29ca5e0f84006a37cb5d/bclypzbbluiz23yoliaa.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428401/production/5aff29ca5e0f84006a37cb5d/bclypzbbluiz23yoliaa.jpg",
+      "caption": "Unwind, recharge, and lose track of time in a space that feels like home."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428833/production/5aff29ca5e0f84006a37cb5d/twapbnbja85mvj0whhou.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428833/production/5aff29ca5e0f84006a37cb5d/twapbnbja85mvj0whhou.jpg",
+      "caption": "Every detail whispers relaxation – your Malibu retreat awaits."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428775/production/5aff29ca5e0f84006a37cb5d/ye3mvcehbx6rlzt7y8ir.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428775/production/5aff29ca5e0f84006a37cb5d/ye3mvcehbx6rlzt7y8ir.jpg",
+      "caption": "The perfect setup for coffee, cocktails, and everything in between."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428578/production/5aff29ca5e0f84006a37cb5d/sakxxnqrvxntf6mtdksb.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428578/production/5aff29ca5e0f84006a37cb5d/sakxxnqrvxntf6mtdksb.jpg",
+      "caption": "Malibu at your doorstep."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428469/production/5aff29ca5e0f84006a37cb5d/z7yfqgnxxixwerfvks0b.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428469/production/5aff29ca5e0f84006a37cb5d/z7yfqgnxxixwerfvks0b.jpg",
+      "caption": "Your Malibu story begins here – in the heart of a sunlit sanctuary."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428743/production/5aff29ca5e0f84006a37cb5d/gevofakimbietgxyahdr.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428743/production/5aff29ca5e0f84006a37cb5d/gevofakimbietgxyahdr.jpg",
+      "caption": "Your outdoor oasis awaits – just add sunshine and a good book."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428712/production/5aff29ca5e0f84006a37cb5d/zknjnrawi6kfkrxbakza.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428712/production/5aff29ca5e0f84006a37cb5d/zknjnrawi6kfkrxbakza.jpg",
+      "caption": "Where outdoor living and ocean views make every moment unforgettable."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428439/production/5aff29ca5e0f84006a37cb5d/owgpo3k2ha99hnaltz14.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428439/production/5aff29ca5e0f84006a37cb5d/owgpo3k2ha99hnaltz14.jpg",
+      "caption": "Welcome to your private Malibu sanctuary."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/efhlxt3udvydvla5htez.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/efhlxt3udvydvla5htez?_a=BAMCcSGi0",
+      "caption": "Carbon Beach has become one of the most popular and requested beaches in Malibu."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/qdzgcz5v47xjebablne1.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/qdzgcz5v47xjebablne1?_a=BAMCcSGi0",
+      "caption": "Bubbly and warm jacuzzi overlooking the Pacific Ocean."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/bgacizrncnra4inxtvpq.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/bgacizrncnra4inxtvpq?_a=BAMCcSGi0",
+      "caption": "Pour a glass of wine and let the waves take you away."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428611/production/5aff29ca5e0f84006a37cb5d/sr2n8grlhc5f3xpijyhx.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428611/production/5aff29ca5e0f84006a37cb5d/sr2n8grlhc5f3xpijyhx.jpg",
+      "caption": "Dine alfresco as the Pacific Ocean shimmers in the distance."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428606/production/5aff29ca5e0f84006a37cb5d/oad8rhm4beykffsvqmjg.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428606/production/5aff29ca5e0f84006a37cb5d/oad8rhm4beykffsvqmjg.jpg",
+      "caption": "Feel the sand, hear the waves, and let Malibu’s beauty surround you."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428626/production/5aff29ca5e0f84006a37cb5d/fxchpfqxua2kchdnlgsi.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428626/production/5aff29ca5e0f84006a37cb5d/fxchpfqxua2kchdnlgsi.jpg",
+      "caption": "Soft lighting, ocean views, and spacious sofas – all you need to relax."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1730428568/production/5aff29ca5e0f84006a37cb5d/umfj1flumtlzpoo0x9c8.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1730428568/production/5aff29ca5e0f84006a37cb5d/umfj1flumtlzpoo0x9c8.jpg",
+      "caption": "Unwind as the waves roll in.\\n"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/hyb1kovdh97zuyixo3g4.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/hyb1kovdh97zuyixo3g4?_a=BAMCcSGi0",
+      "caption": "Reconnect, relax and rejoice in Malibu."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/j4qu5gkjgo1ilyp5z9we.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/j4qu5gkjgo1ilyp5z9we?_a=BAMCcSGi0",
+      "caption": "Stroll down to the beach for a dip in the ocean."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/unqrmxn1rv2cxafnhnnd.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/unqrmxn1rv2cxafnhnnd?_a=BAMCcSGi0",
+      "caption": "Bird's eye view of the stunning location!"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1737106951/production/5aff29ca5e0f84006a37cb5d/lbycpz0caretx5bxgfwt.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1737106951/production/5aff29ca5e0f84006a37cb5d/lbycpz0caretx5bxgfwt.jpg",
+      "caption": "Discover the thoughtfully designed layout, offering seamless flow and comfort in every corner."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1737106951/production/5aff29ca5e0f84006a37cb5d/noeiratryjq9cbbszpxy.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1737106951/production/5aff29ca5e0f84006a37cb5d/noeiratryjq9cbbszpxy.jpg",
+      "caption": "Discover the thoughtfully designed layout, offering seamless flow and comfort in every corner."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/moogm2kzk1gqe0tadgu0.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/moogm2kzk1gqe0tadgu0?_a=BAMCcSGi0",
+      "caption": "Dubbed \"Billionaire's Beach\" by locals."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/odcoccd9yjqngvnvq23y.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/odcoccd9yjqngvnvq23y?_a=BAMCcSGi0",
+      "caption": "Perfect location for long walks on the beach, paddle boarding, kayaking, swimming, and sunbathing."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/ensnt07h3w8inylvuvxv.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/ensnt07h3w8inylvuvxv?_a=BAMCcSGi0",
+      "caption": "Coastal living at its best."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/knh2itx3rpnr5hjiavlr.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/knh2itx3rpnr5hjiavlr?_a=BAMCcSGi0",
+      "caption": "Breathe California and immerse yourself in Malibu's majestic beauty!"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/hpzeyb3hlwz7jtiw9pbv.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/hpzeyb3hlwz7jtiw9pbv?_a=BAMCcSGi0",
+      "caption": "Nobu Restaurant next door"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/zyqxlmnsvwgfxxdrtsja.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/zyqxlmnsvwgfxxdrtsja?_a=BAMCcSGi0",
+      "caption": "Capture beautiful Malibu sunsets"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/vc5psefv5fy5jhvkrwvk.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/vc5psefv5fy5jhvkrwvk?_a=BAMCcSGi0",
+      "caption": "Unforgettable memories await!"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/ibsfw1cfixg3jgrdmjp5.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/ibsfw1cfixg3jgrdmjp5?_a=BAMCcSGi0",
+      "caption": "Walk to the Malibu Pier from the beach access onsite."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/spagy1vgfijhznyz7ozg.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/spagy1vgfijhznyz7ozg?_a=BAMCcSGi0",
+      "caption": "There are always new shops opening nearly every day in this popular area."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/klxwqn3he4rvscarevyj.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/klxwqn3he4rvscarevyj?_a=BAMCcSGi0",
+      "caption": "Country Mart for the best restaurants and shops in Malibu."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/rzej824ps63zynjwi8zh.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/rzej824ps63zynjwi8zh?_a=BAMCcSGi0",
+      "caption": "Malibu Sand is located in the heart of Malibu"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/r3csf8aqan0uazulhsit.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/r3csf8aqan0uazulhsit?_a=BAMCcSGi0",
+      "caption": "There are always new shops opening nearly every day in the popular area!"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/tkkq6jgy0znsrchemubp.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/tkkq6jgy0znsrchemubp?_a=BAMCcSGi0",
+      "caption": "The perfect Malibu shopping experience is just around the corner!"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/vrxmip4ftfrdhkbclrbz.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/vrxmip4ftfrdhkbclrbz?_a=BAMCcSGi0",
+      "caption": "Whole Foods grocery store"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/hkd1vtgenznymzvyiybk.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/hkd1vtgenznymzvyiybk?_a=BAMCcSGi0",
+      "caption": "Stay Awhile Villas offers car rental services to its guests."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796861/vwqmxvuglrk6zihlwepb.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/vwqmxvuglrk6zihlwepb?_a=BAMCcSGi0",
+      "caption": "Stay Awhile Villas offers car rental services to its guests."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1713796860/fvbx11xvpr9yrvrbf2f4.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/fvbx11xvpr9yrvrbf2f4?_a=BAMCcSGi0",
+      "caption": "The Malibu Country Mart is approx. 1.2 miles away and is reachable by foot or car."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686664/production/5aff29ca5e0f84006a37cb5d/oxdnzou6qokllfh61scr.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686664/production/5aff29ca5e0f84006a37cb5d/oxdnzou6qokllfh61scr.jpg",
+      "caption": "Unwind in comfort—CURE Spa provides a serene escape just moments from your stay."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686664/production/5aff29ca5e0f84006a37cb5d/or5srd7ibpujzemcct6l.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686664/production/5aff29ca5e0f84006a37cb5d/or5srd7ibpujzemcct6l.jpg",
+      "caption": "A tranquil retreat near your Malibu getaway—CURE Spa offers stunning oceanfront relaxation."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686664/production/5aff29ca5e0f84006a37cb5d/xz7kpbqlpgiwfc1rotbp.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686664/production/5aff29ca5e0f84006a37cb5d/xz7kpbqlpgiwfc1rotbp.jpg",
+      "caption": "Exclusive wellness just minutes away—CURE Spa offers luxury relaxation and fitness in Malibu."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686664/production/5aff29ca5e0f84006a37cb5d/tgdb0etuzfrvacesp3qm.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686664/production/5aff29ca5e0f84006a37cb5d/tgdb0etuzfrvacesp3qm.jpg",
+      "caption": "Thoughtfully designed for relaxation—CURE Spa offers premium amenities just a short drive away."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686664/production/5aff29ca5e0f84006a37cb5d/prtx4owmd2rxehzspms3.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686664/production/5aff29ca5e0f84006a37cb5d/prtx4owmd2rxehzspms3.jpg",
+      "caption": "Step into the warmth of CURE Spa's private sauna—an elevated wellness experience nearby."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686664/production/5aff29ca5e0f84006a37cb5d/acvudojgh9ybzy31sqix.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686664/production/5aff29ca5e0f84006a37cb5d/acvudojgh9ybzy31sqix.jpg",
+      "caption": "Indulge in ultimate rejuvenation at CURE Spa's exclusive steam room, located nearby."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686666/production/5aff29ca5e0f84006a37cb5d/ssq7khbcscfgj7n5dum6.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686666/production/5aff29ca5e0f84006a37cb5d/ssq7khbcscfgj7n5dum6.jpg",
+      "caption": "A moment of pure relaxation awaits at CURE Spa, a premium retreat just around the corner!"
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686666/production/5aff29ca5e0f84006a37cb5d/mldb8psnjgkexwjhkcto.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686666/production/5aff29ca5e0f84006a37cb5d/mldb8psnjgkexwjhkcto.jpg",
+      "caption": "Stay active with oceanfront workouts at CURE Spa, a private wellness destination close to Aqualina."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686666/production/5aff29ca5e0f84006a37cb5d/maxmycnqcunyziesfgto.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686666/production/5aff29ca5e0f84006a37cb5d/maxmycnqcunyziesfgto.jpg",
+      "caption": "Elevate your workouts at CURE Spa, where luxury fitness meets stunning coastal views just minutes away."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686667/production/5aff29ca5e0f84006a37cb5d/eov2uuyodkaohs3mycse.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686667/production/5aff29ca5e0f84006a37cb5d/eov2uuyodkaohs3mycse.jpg",
+      "caption": "Train with precision—CURE Spa offers professional boxing and fitness equipment nearby."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686667/production/5aff29ca5e0f84006a37cb5d/nauz7bpwgrnjsoucnskp.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686667/production/5aff29ca5e0f84006a37cb5d/nauz7bpwgrnjsoucnskp.jpg",
+      "caption": "A cutting-edge gym experience awaits at CURE Spa, offering elite fitness within easy access."
+    },
+    {
+      "original": "https://assets.guesty.com/image/upload/v1738686668/production/5aff29ca5e0f84006a37cb5d/hkeyg2zgpwbxi9etyqbs.jpg",
+      "thumbnail": "https://assets.guesty.com/image/upload/h_200,c_fit/v1738686668/production/5aff29ca5e0f84006a37cb5d/hkeyg2zgpwbxi9etyqbs.jpg",
+      "caption": "Maintain your routine at CURE Spa, a premier wellness club nearby, where cutting-edge fitness meets breathtaking ocean views."
+    }
+  ],
+  "prices": {
+    "basePrice": 4500,
+    "currency": "USD",
+    "monthlyPriceFactor": 1,
+    "weeklyPriceFactor": 1,
+    "extraPersonFee": null,
+    "cleaningFee": 750,
+    "petFee": 0
+  },
+  "publicDescription": {
+    "space": "Complimentary Airport Transportation!  Restrictions apply.  \n\nIf you are a displaced family due to the Palisades or Eaton fire, please contact our office directly or write to us before booking so we can assist you with preferred pricing and accommodations.\n\nExclusive Partnerships Include:\n• Erewhon Market – Stay Awhile offers pre-stock fridge services exclusively through Erewhon\n• CURE Wellness – Members-only gym, spa, and wellness center in Malibu with exclusive access for Stay Awhile guests during their stay\n\nYour private oasis on Malibu’s most coveted shoreline—Carbon Beach. Thoughtfully curated for those seeking a serene coastal retreat, this intimate escape features six ocean-side suites and one spacious main house with direct beach access and sweeping Pacific views.\n\nPerfectly positioned for long beach walks, paddle boarding, kayaking, swimming, and sunbathing, the property invites you to unwind with oceanfront loungers on a sand-covered deck and alfresco dining for six beside a fully equipped grilling station.\n\nInside, the wide-open floor plan is designed for effortless relaxation and entertaining. Sink into oversized sofas in the main living area, complete with Apple TV, or craft your favorite drink at the full bar. Just steps away, a pool table adds to the lively atmosphere, while the chef-style kitchen impresses with high-end appliances, marble countertops, and generous prep space. Dine at the formal table for six or gather around the high-top island that seats eight.\n\nThe villa offers four luxurious ensuite bedrooms plus a bonus maid’s room—perfect for families or groups. Each bedroom is outfitted with hotel-quality linens, smart TVs, and generous storage, while glass doors welcome in fresh ocean air. Spa-style bathrooms feature Graft rain showers, LED vanity mirrors, Toto Neorest toilets, and thoughtful touches like cotton balls, q-tips, and toiletries.\n\nThe oceanside primary suite boasts a private hot tub just beyond its glass doors, with a lavish ensuite bathroom offering a separate soaking tub and refined finishes.\n\nMalibu Sand is the epitome of coastal luxury. Walk straight from the sand to the Malibu Pier, Nobu, Soho House, and Surfrider Beach. The Malibu Country Mart and Whole Foods are just over a mile away—easily reached by foot or car.\n\nFrom glowing sunsets to the sound of waves at night, every moment here invites you to immerse yourself in Malibu’s majestic beauty.\n\nUnique Features\n• Prime oceanfront location on Carbon Beach—Malibu’s most exclusive stretch of sand\n• Private beach access with sun loungers, fire pit, and upper-level hot tub overlooking the Pacific\n• Sleek indoor-outdoor design with panoramic views from every major room\n• Four luxe ensuite bedrooms + bonus room, each with smart TVs and hotel-quality linens\n• Custom bar, pool table, and spacious lounge for seamless entertaining\n• Chef’s kitchen with oversized island, high-end appliances, and dual dining areas\n• Designer bathrooms with rain showers, Toto smart toilets, and premium essentials\n• Walk to Nobu, Soho House, Malibu Pier, and Surfrider Beach directly from the sand\n• Access to Erewhon fridge-stocking + CURE Wellness gym & spa (exclusive to Stay Awhile guests)\n• Concierge services and airport transportation available for a full 5-star experience\n\nCoastal living at its best!\n\n**All credit card payments are subject to a 3.55% processing fee, shown at checkout. A 3.55% processing fee also applies to any additional service charges, including pre-stocking, mid-stay cleaning, pool heating, and similar services. The guest name must match the name on the credit card. For international credit cards, an additional 1.5% may be charged after booking to account for exchange rate differences—bringing the total fee to approximately 4.7%. If you prefer not to incur this fee, payment by bank wire is available. Guests wishing to pay by bank wire must notify our team prior to booking so we can provide instructions and ensure the correct payment method is arranged.",
+    "access": "Access to CURE Wellness and Gym is also included, conveniently located nearby (not onsite).",
+    "neighborhood": "Property is located on Pacific Coast Highway. Guests are subject to hearing potential road noise and/or waves crashing\\n\\nDubbed \"Billionaire's Beach\" by locals, Carbon Beach has become one of the most popular and requested beaches in Malibu. Known for its long sandy beaches makes Carbon perfect for long walks on the beach, paddle boarding, kayaking, swimming, and sunbathing. You will be steps away from Nobu, the SoHo House, and seconds away from the sand. You can walk to Surfrider beach or the Malibu Pier from the beach access onsite, or you can walk a little further to the Country Mart for the best restaurants and shops in Malibu. There are always new shops opening nearly every day.",
+    "transit": "Malibu Sand is located in the heart of Malibu within walking distance to the Malibu Pier and just steps away from Malibu's most iconic beach, Carbon Beach. The Malibu Country Mart is approx. 1.2 miles and is reachable by foot or car. We offer car rental services to its guests. Uber is readily available during peak season.",
+    "notes": "Please message our team and speak with the Home Manager before booking. Mandatory additional terms may apply depending on your booking platform. Credit card processing fee may be required post-booking. In case of cancellation, the stated booking cancellation policy applies.\n\nTo maintain property and neighborhood harmony, we have important rules. Please read carefully.\n\n1) No parties, visitors, or unapproved guests. Submit all guest names before booking. Government ID may be requested from the person who booked. A guest is anyone who will spend any amount of time at the property. Our strict guest policy ensures neighborhood peace and legal compliance. Exceeding capacity risks our permit, we may ask you to leave. \n\n2) No pets allowed except for service animals as required by law.\n\n3) No smoking, vaping, e-cigarettes, or similar (outside and indoors). Our state-of-the-art smoke detectors notify the fire department - $500 fee for false alarms or rule violations. City Code Section 41.50 B 18 b | High Brush Fire Zone | Prevent Wildfires | It’s the LAW. We are in a high brush fire zone. In effort to prevent wildfires the state can turn utilities on and off intermittently. Stay Awhile will not offer any refunds in this case.\n\n4) Do not send mail to property before or after your reservation dates. If needed, send it to our office; we'll deliver to the property on your arrival day. We're not responsible for lost mail.\n\n5) Quiet hours: 10:00pm to 8:00am to ensure peaceful atmosphere for all guests and neighbors. Property is located on Pacific Coast Highway. Guests are subject to hearing potential road noise and/or waves crashing.\n\n7) Day of Arrival:\nLet us know if you prefer self-check-in or a personal tour. Only the guest who booked can check in and must show their ID for security.\n\n8) Check-In: We have a check-in window from 4:00pm to 6:00pm. Early check-in is based upon availability and will need to be approved by our team. Please keep this in mind as the day of your arrival approaches. If you are arriving later than 6pm, please reach out to our team for approval.\n\nCheck Out: 10:00am. Late checkout is based upon availability and needs to be approved in advance. Our late check-out fee is $100 for every hour after 10:00am. Additionally, if you want to check-out after 12:00 pm, then you will need to pay a fee equal to one full day. Please keep this in mind as the day of your departure approaches.\n\n9) When you are departing the property, please make sure that you do not leave anything behind. Our team is not responsible for Lost or Stolen Items. If our team finds a lost item, we will ship it back to the guest. The guest will be responsible for paying the shipping cost plus a $50 service fee.\n\n10) Pre-Stocking: Choose from our available pre-stocking options with at least one week's notice. A $95 service fee applies to all requests.\n\n11) Hot tub: Never leave children unsupervised; no lifeguard on duty. No glassware; $1000 fee if glass is found. Use provided plasticware for safety. If kitchen lacks plasticware, please inform us. Please don't dispose of plasticware; wash and store them. If the hot-tub does not work well we will not offer a refund of more than $150 per day. \n\n12) Parking: Please park in the far-left two-car bay garage.\n\nCleanliness:\nWe take our cleaning seriously. You can trust that our homes are thoroughly deep cleaned between guest visits. All of our homes have white hotel-style linens, white towels, toiletries for our guests, and well stocked kitchens with high-end appliances. Amid COVID-19, our cleaning intensified: surfaces wiped with hot water and disinfectants. All towels and linens washed, regardless of appearance; many hotels don't. Door handles and high-touch spots get extra care. Staff wears masks, gloves, and shoe coverings. Our exceptional cleaning surpasses CDC standards.\n\nThis property contains an exterior camera at the front door which is motion sensored and is active during guests stay. \n\nWe are a professional vacation rental hospitality management company. We maintain high hospitality standards with an in-house team of designers, concierge, hosts, maintenance personnel, and stylists. We are ranked #1 in California and #4 in the country. Travel can be stressful, especially when you book without seeing the home beforehand. We eliminate that stress.\n\nLastly, by the end of your stay with us, if you feel our service provided to you has been nothing less than excellent, gratuity is always welcome. Just give it to whomever you deem fit!",
+    "interactionWithGuests": "Our dedicated team at Stay Awhile Villas is committed to ensuring your stay is seamless and unforgettable. We are available within reasonable hours to assist with any needs, provide local recommendations, and address any concerns you may have, ensuring a personalized and exceptional experience throughout your stay.",
+    "summary": "A peaceful and serene reserve meticulously designed for luxury and relaxation, located in the heart of Malibu. Just steps away from feeling your toes in the sand! Enjoy the sound of the waves from the large pool-like hot tub on the upper deck overlooking the Pacific. This newly built villa offers 4 large hotel-style ensuite bedrooms. Spacious open floor plan with a stunning kitchen, comfortable living area, dining and pool table. A truly one of a kind vacation rental experience on Carbon Beach!",
+    "houseRules": "Quiet hours are from 10pm to 8am\\n"
+  },
+  "terms": {
+    "minNights": 2,
+    "maxNights": 365
+  },
+  "taxes": [
+    {
+      "_id": "6509fcaeb4c49644386ebcda",
+      "type": "TRANSIENT_OCCUPANCY_TAX",
+      "amount": 15,
+      "units": "PERCENTAGE",
+      "quantifier": "PER_STAY",
+      "appliedToAllFees": false,
+      "appliedOnFees": [
+        "AF"
+      ],
+      "isAppliedByDefault": false,
+      "appliedByDefaultOnChannels": [],
+      "conditionalOverrides": {
+        "viewType": "LOS",
+        "maxNightCountToApplyOn": 29
+      },
+      "__v": 0,
+      "channelConfig": [
+        {
+          "channel": "airbnb2",
+          "userConfig": {
+            "syncSelection": "DO_NOT_SYNC"
+          }
+        }
+      ]
+    }
+  ],
+  "reviews": {
+    "avg": 9.8,
+    "total": 43
+  },
+  "tags": [
+    "Malibu Sand and Suites",
+    "Black Label Villas",
+    "Oceanfront",
+    "Oceanview",
+    "Sandy Beach",
+    "Beachfront",
+    "Beach Access",
+    "Gated",
+    "Spa/Hot Tub",
+    "Chef's Kitchen",
+    "Touchstay",
+    "Alex"
+  ],
+  "areaSquareFeet": 6981,
+  "parentId": null,
+  "image": {
+    "cached": false,
+    "data": {
+      "src": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+      "width": 1500
+    }
+  },
+  "testimonials": [
+    {
+      "listing": {
+        "title": "Malibu Sand",
+        "image": {
+          "cached": false,
+          "data": {
+            "src": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+            "width": 1500
+          }
+        }
+      },
+      "date": "2026-02-15T21:20:29.190Z",
+      "id": "6993a607a3378ae188fb301e",
+      "body": "Everything was great, we needed to extend our stay and our host made sure we were all taken care of. The view is incredible, and the house is beautiful. I would definitely come back here",
+      "rating": 5
+    },
+    {
+      "listing": {
+        "title": "Malibu Sand",
+        "image": {
+          "cached": false,
+          "data": {
+            "src": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+            "width": 1500
+          }
+        }
+      },
+      "date": "2026-01-14T20:56:47.727Z",
+      "id": "696806d6016f1f669e79ff4a",
+      "body": "Beautiful house, well maintained and very modern. I love the fact that you have direct access to the beach where you can just enjoy the scenery. My family loves the hot tub with the breathtaking view. We will definitely be back 😊",
+      "rating": 5
+    },
+    {
+      "listing": {
+        "title": "Malibu Sand",
+        "image": {
+          "cached": false,
+          "data": {
+            "src": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+            "width": 1500
+          }
+        }
+      },
+      "date": "2025-09-29T00:30:35.011Z",
+      "id": "68daa237f8f7b5526199ddcd",
+      "body": "Very clean, amazing views, and had a great time. Thank you for having us",
+      "rating": 5
+    },
+    {
+      "listing": {
+        "title": "Malibu Sand",
+        "image": {
+          "cached": false,
+          "data": {
+            "src": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+            "width": 1500
+          }
+        }
+      },
+      "date": "2025-03-17T20:56:56.012Z",
+      "id": "67d9efc3c664dd30e30c3e34",
+      "body": "My family is fortunate to have enjoyed several beachfront rentals over the years. This property blew them all out of the water! The home is thoughtfully appointed with everything we needed for a great stay. The bedding is the most comfortable I’ve experienced in a short-term rental, The location is off the charts amazing with a fabulous private beach, walkable restaurants, and a short drive to various local attractions. We loved our meals at Vs and Nobu, and the outdoor mall just down the road made for a wonderful afternoon of relaxed shopping.\\n\\nThe host communication was outstanding throughout the stay with proactive updates and a quick response when we asked for support with a small maintenance issue. The professionalism of the management really showed.\\n\\nOverall, an amazing stay for a family or couples looking for the perfect Malibu experience.",
+      "rating": 5
+    },
+    {
+      "listing": {
+        "title": "Malibu Sand",
+        "image": {
+          "cached": false,
+          "data": {
+            "src": "https://assets.guesty.com/image/upload/v1742801234/production/5aff29ca5e0f84006a37cb5d/sinlgwufwjkv9ewusndl.jpg",
+            "width": 1500
+          }
+        }
+      },
+      "date": "2025-02-25T22:15:03.611Z",
+      "id": "67be431cac7c328949f61511",
+      "body": "Muhteşem bir malibu beach deneyimi  çok fazla söz e gerek kalmadan daha iyi bir deneyimi hayal bile edemiyorum.Sundukları olanlar dışında yardımcı oldukları tüm konularda kusursuzdu.",
+      "rating": 5
+    }
+  ],
+  "testimonialFallbackImage": "https://assets.guesty.com/image/upload/v1737106951/production/5aff29ca5e0f84006a37cb5d/noeiratryjq9cbbszpxy.jpg",
+  "nearbyProperties": [
+    {
+      "_id": "5e27f6f5ce86e8005b1aff50",
+      "title": "Malibu Reserve",
+      "city": "Malibu, California",
+      "imageUrl": "https://assets.guesty.com/image/upload/v1713796646/a6fswvz9zmdex0kdezej.jpg"
+    },
+    {
+      "_id": "5b2736a7ac6b96001b479374",
+      "title": "Oceana Bleu",
+      "city": "Malibu, California",
+      "imageUrl": "https://assets.guesty.com/image/up',\r\n      ]);\r\n    </script>\r\n    <script>\r\n      self.__next_f.push([\r\n        1,\r\n        'load/v1718256750/production/5aff29ca5e0f84006a37cb5d/eejhtafw1limwhvra697.jpg"
+    },
+    {
+      "_id": "5cf22e03903d090064cf27bf",
+      "title": "Villa Azure",
+      "city": "Malibu, California",
+      "imageUrl": "https://assets.guesty.com/imag',\r\n      ]);\r\n    </script>\r\n    <script>\r\n      self.__next_f.push([\r\n        1,\r\n        'e/upload/v1713796798/wmt9397cpyyffx82bpwc.jpg"
+    },
+    {
+      "_id": "5ee2ff9239a4640045f175ba",
+      "title": "SA Beach #10",
+      "city": "Malibu, California",
+      "imageUrl": "https://assets.guesty.com/image/upload/v1713796786/pocdmiwxcpyf0h7y2dea.jpg"
+    }
+  ],
+  "nearbyRegion": "Malibu"
+}
